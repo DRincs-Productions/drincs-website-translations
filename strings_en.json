@@ -23,5 +23,7 @@
 		, "do_have_account" : "Do you already have an account?"
 		, "username" : "Username"
 		, "verification_mail_sent" : "A verification email was sent."
+		, "download" : "Download"
+		, "support" : "Support"
 	}
 }
