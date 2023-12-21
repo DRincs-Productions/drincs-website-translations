@@ -25,5 +25,11 @@
 		, "verification_mail_sent" : "A verification email was sent."
 		, "download" : "Download"
 		, "support" : "Support"
+		, "about" : "About"
+		, "translations" : "Translations"
+		, "wiki" : "Wiki"
+		, "bug/request" : "Bug/Request"
+		, "language" : "Language"
+		, "translated" : "Translated"
 	}
 }
