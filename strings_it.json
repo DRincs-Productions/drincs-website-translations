@@ -24,6 +24,12 @@
 		"username": "Username",
 		"verification_mail_sent": "Email di verifica inviata.",
 		"download": "Download",
-		"support": "Supporta"
+		"support": "Supporta",
+		"about": "About",
+		"translations": "Translations",
+		"wiki": "Wiki",
+		"bug/request": "Bug/Request",
+		"language": "Language",
+		"translated": "Translated"
 	}
 }
