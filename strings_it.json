@@ -22,6 +22,8 @@
 		"back_to_sign_in": "Torna alla pagina di accesso",
 		"do_have_account": "Hai già un account?",
 		"username": "Username",
-		"verification_mail_sent": "Email di verifica inviata."
+		"verification_mail_sent": "Email di verifica inviata.",
+		"download": "Download",
+		"support": "Support"
 	}
 }
