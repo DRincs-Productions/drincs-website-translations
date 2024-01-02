@@ -75,11 +75,12 @@
 		"private_news": "Notizie Private",
 		"voting_power": "Potere di Voto",
 		"retained_by": "{{percent}} trattenuto da {{site}}",
-		"support_development_info": "I premi sono ancora in fase di sviluppo. Per maggiori informazioni leggi:",
+		"support_development_info": "I premi sono ancora in fase di sviluppo. Per maggiori informazioni leggere:",
 		"not_support_us_for_benefits": "Non supportarci solo per ottenere i benefici, ma per assicurarci di poter trascorrere più tempo sul progetto",
 		"before": "Precedente",
 		"next": "Successivo",
 		"pricing_plan": "Piano tariffario",
-		"gifs": "Regali"
+		"gifs": "Regali",
+		"start_now": "Start now"
 	}
 }
