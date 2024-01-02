@@ -74,6 +74,13 @@
 		"year": "Year",
 		"site_role": "{{site}} Role",
 		"private_news": "Private News",
-		"voting_power": "Voting Power"
+		"voting_power": "Voting Power",
+		"retained_by": "{{percent}} retained by {{site}}",
+		"support_development_info": "The awards are still under development. For more information read:",
+		"not_support_us_for_benefits": "Not support us just to get the benefits, but to make sure that I can spend more time on the project",
+		"before": "Before",
+		"next": "Next",
+		"pricing_plan": "Pricing plan",
+		"gifs": "Gifs"
 	}
 }
