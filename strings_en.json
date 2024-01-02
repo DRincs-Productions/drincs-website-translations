@@ -76,7 +76,7 @@
 		, "voting_power" : "Voting Power"
 		, "retained_by" : "{{percent}} retained by {{site}}"
 		, "support_development_info" : "The awards are still under development. For more information read:"
-		, "not_support_us_for_benefits" : "Not support us just to get the benefits, but to make sure that I can spend more time on the project"
+		, "not_support_us_for_benefits" : "Don't support us just to get the benefits, but to make sure we can spend more time on the project"
 		, "before" : "Before"
 		, "next" : "Next"
 		, "pricing_plan" : "Pricing plan"
