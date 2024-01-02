@@ -68,5 +68,7 @@
 		, "additional_description_helper" : "Add a description to help us understand"
 		, "browser" : "Browser"
 		, "browser_helper" : "Which Browser were you using?"
+		, "already_logged_in" : "You are already logged in"
+		, "dont_have_an_account" : "Don't have an account?"
 	}
 }
