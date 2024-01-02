@@ -46,7 +46,7 @@
 		, "other_games" : "Other games"
 		, "slow_loading_info" : "The loading could be a little slow. I'm currently using on a free server..."
 		, "before_opening_issue_info" : "Before opening an issue it is recommended to talk about it first on:"
-		, "report" : "Report"
+		, "reports" : "Reports"
 		, "bug_report_info" : "Create a report to help us improve"
 		, "feature_request" : "Feature request"
 		, "feature_request_info" : "Suggest an idea for this project"
