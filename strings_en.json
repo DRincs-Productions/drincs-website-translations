@@ -35,5 +35,11 @@
 		, "login" : "Login"
 		, "log_out" : "Log out"
 		, "expand" : "Expand"
+		, "compressed" : "Compressed"
+		, "windowsos" : "Windows"
+		, "linux" : "Linux"
+		, "macos" : "MacOS"
+		, "android" : "Android"
+		, "ios" : "iOS"
 	}
 }
