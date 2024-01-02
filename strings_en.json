@@ -55,5 +55,18 @@
 		, "writing_or_translation_info" : "Improve the writing or translation of the game"
 		, "new_game_quest" : "New Quest-Mission"
 		, "new_game_quest_info" : "Create a new quest-mission"
+		, "title" : "Title"
+		, "what_happened" : "What happened?"
+		, "what_happened_helper" : "Also tell us, what did you expect to happen?"
+		, "what_happened_placeholder" : "Tell us what you see!"
+		, "device_helper" : "Which device were you using?"
+		, "version_helper" : "What version of our software are you running?"
+		, "your_nickname" : "Your nickname"
+		, "nickname_helper" : "Add your contact so we can contact you for more information"
+		, "nickname_placeholder" : "Discrod: _your_nickname_"
+		, "additional_description" : "Additional description"
+		, "additional_description_helper" : "Add a description to help us understand"
+		, "browser" : "Browser"
+		, "browser_helper" : "Which Browser were you using?"
 	}
 }
