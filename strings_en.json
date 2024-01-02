@@ -31,5 +31,9 @@
 		, "bug/request" : "Bug/Request"
 		, "language" : "Language"
 		, "translated" : "Translated"
+		, "support_me" : "Support me"
+		, "login" : "Login"
+		, "log_out" : "Log out"
+		, "expand" : "Expand"
 	}
 }
