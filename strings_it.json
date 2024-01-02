@@ -24,13 +24,14 @@
 		"username": "Username",
 		"verification_mail_sent": "Email di verifica inviata.",
 		"download": "Download",
+		"support": "Support",
 		"about": "Info",
 		"translations": "Traduzioni",
 		"wiki": "Wiki",
 		"bug/requests": "Bug/Richieste",
 		"language": "Lingua",
 		"translated": "Tradotto",
-		"support_us": "Supportaci",
+		"support_me": "Support me",
 		"login": "Accedi",
 		"log_out": "Log out",
 		"expand": "Espandi",
@@ -46,7 +47,7 @@
 		"other_games": "Altri giochi",
 		"slow_loading_info": "Il caricamento potrebbe essere un po' lento. Attualmente sto usando su un server gratuito...",
 		"before_opening_issue_info": "Prima di aprire un \"ticket\" si consiglia di parlarne prima su:",
-		"reports": "Segnalazioni",
+		"report": "Report",
 		"bug_report_info": "Crea un rapporto per aiutarci a migliorare",
 		"feature_request": "Richiesta di una funzionalità",
 		"feature_request_info": "Suggerisci un'idea per questo progetto",
@@ -68,6 +69,11 @@
 		"browser": "Browser",
 		"browser_helper": "Quale browser stavi usando?",
 		"already_logged_in": "Ha già effettuato l'accesso",
-		"dont_have_an_account": "Non hai un account?"
+		"dont_have_an_account": "Non hai un account?",
+		"month": "Month",
+		"year": "Year",
+		"site_role": "{{site}} Role",
+		"private_news": "Private News",
+		"voting_power": "Voting Power"
 	}
 }
