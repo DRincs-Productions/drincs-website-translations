@@ -46,5 +46,14 @@
 		, "only_supporter" : "Only for supporters"
 		, "other_games" : "Other games"
 		, "slow_loading_info" : "The loading could be a little slow. I am currently leaving on a free server..."
+		, "before_opening_issue_info" : "Before opening an issue it is recommended to talk about the issue first on:"
+		, "report" : "Report"
+		, "bug_report_info" : "Create a report to help us improve"
+		, "feature_request" : "Feature request"
+		, "feature_request_info" : "Suggest an idea for this project"
+		, "writing_or_translation" : "Writing or translation"
+		, "writing_or_translation_info" : "Improve the writing or translation of the game"
+		, "new_game_quest" : "New Quest-Mission"
+		, "new_game_quest_info" : "Create a new quest-mission"
 	}
 }
