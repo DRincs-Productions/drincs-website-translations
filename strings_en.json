@@ -63,7 +63,7 @@
 		, "version_helper" : "What version of our software are you running?"
 		, "your_nickname" : "Your nickname"
 		, "nickname_helper" : "Add your contact so we can contact you for more information"
-		, "nickname_placeholder" : "Discrod: _your_nickname_"
+		, "nickname_placeholder" : "Discord: _your_nickname_"
 		, "additional_description" : "Additional description"
 		, "additional_description_helper" : "Add a description to help us understand"
 		, "browser" : "Browser"
