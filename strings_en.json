@@ -41,5 +41,10 @@
 		, "macos" : "MacOS"
 		, "android" : "Android"
 		, "ios" : "iOS"
+		, "device" : "Device"
+		, "version" : "Version"
+		, "only_supporter" : "Only for supporters"
+		, "other_games" : "Other games"
+		, "slow_loading_info" : "The loading could be a little slow. I am currently leaving on a free server..."
 	}
 }
