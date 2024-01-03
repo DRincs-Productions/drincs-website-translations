@@ -81,6 +81,7 @@
 		"next": "Successivo",
 		"pricing_plan": "Piano tariffario",
 		"gifs": "Regali",
-		"start_now": "Inizia ora"
+		"start_now": "Inizia ora",
+		"api_error_unauthorized": "Error Unauthorized"
 	}
 }
