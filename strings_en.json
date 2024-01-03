@@ -82,5 +82,6 @@
 		, "pricing_plan" : "Pricing plan"
 		, "gifs" : "Gifs"
 		, "start_now" : "Start now"
+		, "api_error_unauthorized" : "Error Unauthorized"
 	}
 }
