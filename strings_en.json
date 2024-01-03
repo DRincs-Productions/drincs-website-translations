@@ -86,5 +86,6 @@
 		, "api_email_already_exists" : "The user with the provided email already exists"
 		, "api_invalid_password": "Invalid password (min 8 characters, 1 uppercase, 1 lowercase, 1 number, 1 symbol)"
 		, "api_not_registered_or_wrong_password" : "Non-registered user or Wrong credentials"
+		, "api_field_required" : "Some fields are missing"
 	}
 }
