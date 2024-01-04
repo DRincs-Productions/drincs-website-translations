@@ -89,12 +89,12 @@
 		"api_field_required": "Alcuni campi sono mancanti",
 		"get_user_profile_error": "Errore nell'ottenere il profilo utente",
 		"my_profile": "Il mio profilo",
-		"my_profile_info": "Customize how your profile information will apper to the networks.",
+		"my_profile_info": "This is your user profile. Remember your username and profile picture can also be visible to other users.",
 		"verified": "Verificato",
 		"not_verified": "Non verificato",
-		"resend_verification_email": "Resend verification email",
-		"edit_password": "Edit password",
-		"edit": "Edit",
-		"delete_account": "Delete account"
+		"resend_verification_email": "Reinvia email di verifica",
+		"edit_password": "Cambia password",
+		"edit": "Modifica",
+		"delete_account": "Eliminare l'account"
 	}
 }
