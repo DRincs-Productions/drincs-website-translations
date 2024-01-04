@@ -89,7 +89,7 @@
 		, "api_field_required" : "Some fields are missing"
 		, "get_user_profile_error" : "Error getting user profile"
 		, "my_profile" : "My profile"
-		, "my_profile_info" : "Customize how your profile information will apper to the networks."
+		, "my_profile_info" : "This is your user profile. Remember your username and profile picture can also be visible to other users."
 		, "verified" : "Verified"
 		, "not_verified" : "Not verified"
 		, "resend_verification_email" : "Resend verification email"
