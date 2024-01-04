@@ -1,6 +1,6 @@
 {
 	"translation": {
-		"err_generic" : "There was an error"
+		"err_generic" : "An error occurred"
 		, "reload" : "Reload"
 		, "info" : "Info"
 		, "translate" : "Translate"
