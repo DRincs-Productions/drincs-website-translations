@@ -102,5 +102,7 @@
 		, "save" : "Save"
 		, "edit_success" : "Successfully edited"
 		, "err_token_not_found" : "Error: Token not found"
+		, "password_helper": "Min 8 characters, 1 uppercase, 1 lowercase, 1 number, 1 symbol"
+		, "repeat_password" : "Repeat password"
 	}
 }
