@@ -101,6 +101,6 @@
 		, "error_bad_request" : "An error occurred due to an incorrect request"
 		, "save" : "Save"
 		, "edit_success" : "Successfully edited"
-		, "err_token_not_found" : "Error token not found"
+		, "err_token_not_found" : "Error: Token not found"
 	}
 }
