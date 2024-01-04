@@ -100,7 +100,7 @@
 		"error_network": "A network error occurred",
 		"error_bad_request": "An error occurred due to an incorrect request",
 		"save": "Salva",
-		"edit_success": "Successfully edited",
-		"err_token_not_found": "Error token not found"
+		"edit_success": "Modificato con successo",
+		"err_token_not_found": "Error: Token not found"
 	}
 }
