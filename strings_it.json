@@ -101,6 +101,8 @@
 		"error_bad_request": "Si è verificato un errore a causa di una richiesta errata",
 		"save": "Salva",
 		"edit_success": "Modificato con successo",
-		"err_token_not_found": "Errore: Token non trovato"
+		"err_token_not_found": "Errore: Token non trovato",
+		"password_helper": "Min 8 characters, 1 uppercase, 1 lowercase, 1 number, 1 symbol",
+		"repeat_password": "Repeat password"
 	}
 }
