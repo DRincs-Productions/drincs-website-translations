@@ -92,5 +92,8 @@
 		, "my_profile_info" : "Customize how your profile information will apper to the networks."
 		, "verified" : "Verified"
 		, "not_verified" : "Not verified"
+		, "resend_verification_email" : "Resend verification email"
+		, "edit_password" : "Edit password"
+		, "edit" : "Edit"
 	}
 }
