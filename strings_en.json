@@ -99,5 +99,6 @@
 		, "error_server" : "There was an error in the server"
 		, "error_network" : "There was a network error"
 		, "error_bad_request" : "There was an error a bad request"
+		, "save" : "Save"
 	}
 }
