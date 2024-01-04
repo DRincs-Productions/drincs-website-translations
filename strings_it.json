@@ -95,12 +95,12 @@
 		"edit_password": "Cambia password",
 		"edit": "Modifica",
 		"delete_account": "Eliminare l'account",
-		"api_error_unauthorized": "An authorization error occurred",
-		"error_server": "An error occurred on the server",
-		"error_network": "An error occurred due to an incorrect request",
-		"error_bad_request": "There was an error a bad request",
+		"api_error_unauthorized": "Si è verificato un errore di autorizzazione",
+		"error_server": "Si è verificato un errore sul server",
+		"error_network": "A network error occurred",
+		"error_bad_request": "An error occurred due to an incorrect request",
 		"save": "Salva",
-		"process_success": "Process success",
+		"edit_success": "Successfully edited",
 		"err_token_not_found": "Error token not found"
 	}
 }
