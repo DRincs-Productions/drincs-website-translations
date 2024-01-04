@@ -1,6 +1,6 @@
 {
 	"translation": {
-		"err_generic": "Si è verificato un errore",
+		"err_generic": "An error occurred",
 		"reload": "Ricarica",
 		"info": "Info",
 		"translate": "Traduci",
@@ -97,10 +97,10 @@
 		"delete_account": "Eliminare l'account",
 		"api_error_unauthorized": "Si è verificato un errore di autorizzazione",
 		"error_server": "Si è verificato un errore sul server",
-		"error_network": "A network error occurred",
-		"error_bad_request": "An error occurred due to an incorrect request",
+		"error_network": "Si è verificato un errore di rete",
+		"error_bad_request": "Si è verificato un errore a causa di una richiesta errata",
 		"save": "Salva",
 		"edit_success": "Modificato con successo",
-		"err_token_not_found": "Error: Token not found"
+		"err_token_not_found": "Errore: Token non trovato"
 	}
 }
