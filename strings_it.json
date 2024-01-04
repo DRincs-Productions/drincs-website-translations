@@ -89,7 +89,7 @@
 		"api_field_required": "Alcuni campi sono mancanti",
 		"get_user_profile_error": "Errore nell'ottenere il profilo utente",
 		"my_profile": "Il mio profilo",
-		"my_profile_info": "This is your user profile. Remember your username and profile picture can also be visible to other users.",
+		"my_profile_info": "Questo è il tuo profilo utente. Ricorda il tuo nome utente e l'immagine del profilo possono essere visibili anche ad altri utenti.",
 		"verified": "Verificato",
 		"not_verified": "Non verificato",
 		"resend_verification_email": "Reinvia email di verifica",
