@@ -100,7 +100,7 @@
 		, "error_network" : "A network error occurred"
 		, "error_bad_request" : "An error occurred due to an incorrect request"
 		, "save" : "Save"
-		, "process_success" : "Process success"
+		, "edit_success" : "Process success"
 		, "err_token_not_found" : "Error token not found"
 	}
 }
