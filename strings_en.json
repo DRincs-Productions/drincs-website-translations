@@ -88,5 +88,6 @@
 		, "api_not_registered_or_wrong_password" : "Non-registered user or Wrong credentials"
 		, "api_field_required" : "Some fields are missing"
 		, "get_user_profile_error" : "Error getting user profile"
+		, "my_profile" : "My profile"
 	}
 }
