@@ -82,7 +82,6 @@
 		"pricing_plan": "Piano tariffario",
 		"gifs": "Regali",
 		"start_now": "Inizia ora",
-		"api_error_unauthorized": "Errore Non autorizzato",
 		"api_email_already_exists": "L'utente con l'email fornita esiste già",
 		"api_invalid_password": "Password non valida (min 8 caratteri, 1 maiuscolo, 1 minuscolo, 1 numero, 1 simbolo)",
 		"api_not_registered_or_wrong_password": "Utente non registrato o Credenziali errate",
@@ -95,6 +94,10 @@
 		"resend_verification_email": "Reinvia email di verifica",
 		"edit_password": "Cambia password",
 		"edit": "Modifica",
-		"delete_account": "Eliminare l'account"
+		"delete_account": "Eliminare l'account",
+		"api_error_unauthorized": "There was an authorization error",
+		"error_server": "There was an error in the server",
+		"error_network": "There was a network error",
+		"error_bad_request": "There was an error a bad request"
 	}
 }
