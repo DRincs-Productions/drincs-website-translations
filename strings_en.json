@@ -100,5 +100,7 @@
 		, "error_network" : "There was a network error"
 		, "error_bad_request" : "There was an error a bad request"
 		, "save" : "Save"
+		, "process_success" : "Process success"
+		, "err_token_not_found" : "Error token not found"
 	}
 }
