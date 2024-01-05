@@ -108,5 +108,6 @@
 		, "delete" : "Delete"
 		, "delete_account_info" : "This will delete your account and all your data. This action is irreversible."
 		, "delete_account_helper" : "Write the phrase \"{{confirmText}}\" and press the button to delete your account."
+		, "delete_success" : "The account has been deleted"
 	}
 }
