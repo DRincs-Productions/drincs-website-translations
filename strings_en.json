@@ -109,5 +109,8 @@
 		, "delete_account_info" : "This will delete your account and all your data. This action is irreversible."
 		, "delete_account_helper" : "Write the phrase \"{{confirmText}}\" and press the button to delete your account."
 		, "delete_success" : "The account has been deleted"
+		, "file_size_must_be_less_than_1mb" : "File size must be less than 1MB"
+		, "upload" : "Upload"
+		, "upload_image" : "Upload image"
 	}
 }
