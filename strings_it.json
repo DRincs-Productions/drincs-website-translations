@@ -94,7 +94,7 @@
 		"resend_verification_email": "Reinvia email di verifica",
 		"edit_password": "Cambia password",
 		"edit": "Modifica",
-		"delete_account": "Eliminare l'account",
+		"delete_account": "Elimina account",
 		"api_error_unauthorized": "Si è verificato un errore di autorizzazione",
 		"error_server": "Si è verificato un errore sul server",
 		"error_network": "Si è verificato un errore di rete",
@@ -102,8 +102,11 @@
 		"save": "Salva",
 		"edit_success": "Modificato con successo",
 		"err_token_not_found": "Errore: Token non trovato",
-		"password_helper": "Min 8 characters, 1 uppercase, 1 lowercase, 1 number, 1 symbol",
-		"repeat_password": "Repeat password",
-		"password_not_equal": "Passwords are not equal"
+		"password_helper": "Min 8 caratteri, 1 maiuscolo, 1 minuscolo, 1 numero, 1 simbolo",
+		"repeat_password": "Ripeti password",
+		"password_not_equal": "Le password non sono uguali",
+		"delete": "Delete",
+		"delete_account_info": "This will delete your account and all your data. This action is irreversible.",
+		"delete_account_helper": "Write the phrase \"{{confirmText}}\" and press the button to delete your account."
 	}
 }
