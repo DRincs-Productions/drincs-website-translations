@@ -105,8 +105,8 @@
 		"password_helper": "Min 8 caratteri, 1 maiuscolo, 1 minuscolo, 1 numero, 1 simbolo",
 		"repeat_password": "Ripeti password",
 		"password_not_equal": "Le password non sono uguali",
-		"delete": "Delete",
-		"delete_account_info": "This will delete your account and all your data. This action is irreversible.",
-		"delete_account_helper": "Write the phrase \"{{confirmText}}\" and press the button to delete your account."
+		"delete": "Elimina",
+		"delete_account_info": "Questo eliminerà il tuo account e tutti i tuoi dati. Questa azione è irreversibile.",
+		"delete_account_helper": "Scrivi la frase \"{{confirmText}}\" e premi il pulsante per eliminare il tuo account."
 	}
 }
