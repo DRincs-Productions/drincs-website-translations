@@ -106,5 +106,7 @@
 		, "repeat_password" : "Repeat password"
 		, "password_not_equal" : "Passwords are not equal"
 		, "delete" : "Delete"
+		, "delete_account_info" : "This will delete your account and all your data. This action is irreversible."
+		, "delete_account_helper" : "Write the phrase \"{{confirmText}}\" and press the button to delete your account."
 	}
 }
