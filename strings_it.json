@@ -103,6 +103,7 @@
 		"edit_success": "Modificato con successo",
 		"err_token_not_found": "Errore: Token non trovato",
 		"password_helper": "Min 8 characters, 1 uppercase, 1 lowercase, 1 number, 1 symbol",
-		"repeat_password": "Repeat password"
+		"repeat_password": "Repeat password",
+		"password_not_equal": "Passwords are not equal"
 	}
 }
