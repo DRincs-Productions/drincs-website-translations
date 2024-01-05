@@ -107,6 +107,7 @@
 		"password_not_equal": "Le password non sono uguali",
 		"delete": "Elimina",
 		"delete_account_info": "Questo eliminerà il tuo account e tutti i tuoi dati. Questa azione è irreversibile.",
-		"delete_account_helper": "Scrivi la frase \"{{confirmText}}\" e premi il pulsante per eliminare il tuo account."
+		"delete_account_helper": "Scrivi la frase \"{{confirmText}}\" e premi il pulsante per eliminare il tuo account.",
+		"delete_success": "The account has been deleted"
 	}
 }
