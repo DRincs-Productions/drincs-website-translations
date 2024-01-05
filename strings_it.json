@@ -108,6 +108,9 @@
 		"delete": "Elimina",
 		"delete_account_info": "Questo eliminerà il tuo account e tutti i tuoi dati. Questa azione è irreversibile.",
 		"delete_account_helper": "Scrivi la frase \"{{confirmText}}\" e premi il pulsante per eliminare il tuo account.",
-		"delete_success": "The account has been deleted"
+		"delete_success": "The account has been deleted",
+		"file_size_must_be_less_than_1mb": "File size must be less than 1MB",
+		"upload": "Upload",
+		"upload_image": "Upload image"
 	}
 }
