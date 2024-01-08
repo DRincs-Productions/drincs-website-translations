@@ -111,6 +111,7 @@
 		"delete_success": "Il profilo è stato eliminato",
 		"file_size_must_be_less_than_1mb": "La dimensione del file deve essere inferiore a 1MB",
 		"upload": "Carica",
-		"upload_image": "Carica un immagine"
+		"upload_image": "Carica un immagine",
+		"api_jwt_expired": "Session expired, please log in again"
 	}
 }
