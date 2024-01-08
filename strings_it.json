@@ -112,6 +112,6 @@
 		"file_size_must_be_less_than_1mb": "La dimensione del file deve essere inferiore a 1MB",
 		"upload": "Carica",
 		"upload_image": "Carica un immagine",
-		"api_jwt_expired": "Session expired, please log in again"
+		"api_jwt_expired": "Sessione scaduta, si prega di accedere di nuovo"
 	}
 }
