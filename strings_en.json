@@ -112,5 +112,6 @@
 		, "file_size_must_be_less_than_1mb" : "File size must be less than 1MB"
 		, "upload" : "Upload"
 		, "upload_image" : "Upload an image"
+		, "api_jwt_expired" : "Session expired, please log in again"
 	}
 }
