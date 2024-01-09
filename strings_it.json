@@ -113,6 +113,7 @@
 		"upload": "Carica",
 		"upload_image": "Carica un immagine",
 		"api_jwt_expired": "Sessione scaduta, si prega di accedere di nuovo",
-		"daz_assert": "Daz Assert"
+		"daz_assert": "Daz Assert",
+		"renpy_libraries": "Ren'py libraries"
 	}
 }
