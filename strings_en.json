@@ -114,5 +114,6 @@
 		, "upload_image" : "Upload an image"
 		, "api_jwt_expired" : "Session expired, please log in again"
 		, "daz_assert" : "Daz Assert"
+		, "renpy_libraries" : "Ren'py libraries"
 	}
 }
