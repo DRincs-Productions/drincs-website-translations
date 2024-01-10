@@ -115,5 +115,6 @@
 		, "api_jwt_expired" : "Session expired, please log in again"
 		, "daz_assert" : "Daz Assert"
 		, "renpy_libraries" : "Ren'py libraries"
+		, "api_discord_account_is_already_linked" : "Discord account is already linked to another user"
 	}
 }
