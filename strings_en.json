@@ -124,5 +124,6 @@
 		, "connection_discord_success" : "Connected to Discord"
 		, "connection_discord_success_subtitle" : "Good job!"
 		, "or_with" : "or with"
+		, "api_user_not_found_or_deleted" : "User not found or deleted"
 	}
 }
