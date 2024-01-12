@@ -123,5 +123,6 @@
 		, "connection_discord_loading_subtitle" : "This may take a few seconds. Please wait."
 		, "connection_discord_success" : "Connected to Discord"
 		, "connection_discord_success_subtitle" : "Good job!"
+		, "or_with" : "or with"
 	}
 }
