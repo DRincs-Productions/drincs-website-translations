@@ -120,7 +120,7 @@
 		, "connection_discord_error" : "Error connecting to Discord"
 		, "connection_discord_error_subtitle" : "An error occurred while connecting to Discord. Please try again later."
 		, "connection_discord_loading" : "Connecting to Discord..."
-		, "connection_discord_loading_subtitle" : "This may take a few seconds. Please wait."
+		, "connection_discord_loading_subtitle" : "This may take a few seconds, please wait."
 		, "connection_discord_success" : "Connected to Discord"
 		, "connection_discord_success_subtitle" : "Good job!"
 		, "or_with" : "or with"
