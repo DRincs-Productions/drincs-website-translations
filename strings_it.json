@@ -114,16 +114,16 @@
 		"upload_image": "Carica un immagine",
 		"api_jwt_expired": "Sessione scaduta, si prega di accedere di nuovo",
 		"daz_assert": "Daz Assert",
-		"renpy_libraries": "Ren'py libraries",
-		"api_discord_account_is_already_linked": "Discord account is already linked to another user",
-		"discord_connection": "Discord connection",
-		"connection_discord_error": "Error connecting to Discord",
-		"connection_discord_error_subtitle": "An error occurred while connecting to Discord. Please try again later.",
-		"connection_discord_loading": "Connecting to Discord...",
-		"connection_discord_loading_subtitle": "This may take a few seconds, please wait.",
-		"connection_discord_success": "Connected to Discord",
-		"connection_discord_success_subtitle": "Good job!",
-		"or_with": "or with",
-		"api_user_not_found_or_deleted": "User not found or deleted"
+		"renpy_libraries": "Librerie Ren'py",
+		"api_discord_account_is_already_linked": "L'account Discord è già collegato ad un altro utente",
+		"discord_connection": "Connessione a Discord",
+		"connection_discord_error": "Errore di connessione a Discord",
+		"connection_discord_error_subtitle": "Si è verificato un errore durante la connessione a Discord. Si prega di provare più tardi.",
+		"connection_discord_loading": "Connessione a Discord...",
+		"connection_discord_loading_subtitle": "L'operazione potrebbe richiedere alcuni secondi, si prega di attendere.",
+		"connection_discord_success": "Collegato a Discord",
+		"connection_discord_success_subtitle": "Molto bene!",
+		"or_with": "o con",
+		"api_user_not_found_or_deleted": "Utente non trovato o eliminato"
 	}
 }
