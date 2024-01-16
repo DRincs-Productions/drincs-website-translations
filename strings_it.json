@@ -125,6 +125,7 @@
 		"connection_discord_success_subtitle": "Good job! If don't see changes, please reload the page.",
 		"or_with": "o con",
 		"api_user_not_found_or_deleted": "Utente non trovato o eliminato",
-		"connect_to_discord": "Connect to Discord"
+		"connect_to_discord": "Connect to Discord",
+		"used_support_rewards": "is used to receive support rewards."
 	}
 }
