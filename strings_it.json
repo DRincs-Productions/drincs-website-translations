@@ -122,8 +122,9 @@
 		"connection_discord_loading": "Connessione a Discord...",
 		"connection_discord_loading_subtitle": "L'operazione potrebbe richiedere alcuni secondi, si prega di attendere.",
 		"connection_discord_success": "Collegato a Discord",
-		"connection_discord_success_subtitle": "Molto bene!",
+		"connection_discord_success_subtitle": "Good job! If don't see changes, please reload the page.",
 		"or_with": "o con",
-		"api_user_not_found_or_deleted": "Utente non trovato o eliminato"
+		"api_user_not_found_or_deleted": "Utente non trovato o eliminato",
+		"connect_to_discord": "Connect to Discord"
 	}
 }
