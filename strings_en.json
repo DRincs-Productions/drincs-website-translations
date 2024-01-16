@@ -126,5 +126,6 @@
 		, "or_with" : "or with"
 		, "api_user_not_found_or_deleted" : "User not found or deleted"
 		, "connect_to_discord" : "Connect to Discord"
+		, "used_support_rewards" : "is used to receive support rewards."
 	}
 }
