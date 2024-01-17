@@ -122,12 +122,12 @@
 		"connection_discord_loading": "Connessione a Discord...",
 		"connection_discord_loading_subtitle": "L'operazione potrebbe richiedere alcuni secondi, si prega di attendere.",
 		"connection_discord_success": "Collegato a Discord",
-		"connection_discord_success_subtitle": "Good job! If don't see changes, please reload the page.",
+		"connection_discord_success_subtitle": "Molto bene! Se non si vedono cambiamenti, ricaricare la pagina.",
 		"or_with": "o con",
 		"api_user_not_found_or_deleted": "Utente non trovato o eliminato",
-		"connect_to_discord": "Connect to Discord",
-		"used_support_rewards": "is used to receive support rewards.",
-		"unlink": "Unlink",
-		"unlink_discord_info": "This will unlink your Discord account from your user. This action is irreversible."
+		"connect_to_discord": "Connetti a Discord",
+		"used_support_rewards": "serve per ricevere le ricompense per il supporto.",
+		"unlink": "Scollega",
+		"unlink_discord_info": "Questo scollegherà il tuo account Discord dal tuo utente. Questa azione è irreversibile."
 	}
 }
